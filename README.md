@@ -1,1 +1,1 @@
-# UNet_M2NIST_Segmentation
+# UNet_Segmentation
